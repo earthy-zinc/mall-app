@@ -1,6 +1,6 @@
 {
-    "name" : "有来小店",
-    "appid" : "__UNI__C4E2002",
+    "name" : "土味小店",
+    "appid" : "__UNI__2A3B650",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -52,13 +52,13 @@
             },
             "icons" : {
                 "android" : {
-                    "hdpi" : "C:/Users/xianrui/Desktop/logo.png",
-                    "xhdpi" : "C:/Users/xianrui/Desktop/logo.png",
-                    "xxxhdpi" : "C:/Users/xianrui/Desktop/logo.png",
-                    "xxhdpi" : "C:/Users/xianrui/Desktop/logo.png"
+                    "hdpi" : "",
+                    "xhdpi" : "",
+                    "xxxhdpi" : "",
+                    "xxhdpi" : ""
                 },
                 "ios" : {
-                    "appstore" : "C:/Users/xianrui/Desktop/logo.png"
+                    "appstore" : ""
                 }
             }
         }
@@ -77,7 +77,7 @@
         "permission" : {}
     },
     "h5" : {
-        "title" : "有来商城H5",
+        "title" : "土味商城",
         "domain" : "www.youlai.tech"
     }
 }

@@ -4,10 +4,10 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				// #ifdef MP 
-				"navigationBarTitleText": "有来小店",
+				// #ifdef MP
+				"navigationBarTitleText": "土味小店",
 				//"navigationStyle": "custom",
-				// #endif 
+				// #endif
 				"app-plus": {
 					"titleNView": {
 						"type": "transparent",
@@ -177,7 +177,7 @@
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "有来小店",
+		"navigationBarTitleText": "土味小店",
 		"navigationBarBackgroundColor": "#FFFFFF",
 		"backgroundColor": "#f8f8f8"
 	},

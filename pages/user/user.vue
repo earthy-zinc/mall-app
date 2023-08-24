@@ -15,9 +15,9 @@
 				<view class="b-btn">立即开通</view>
 				<view class="tit">
 					<text class="yticon icon-iLinkapp-"></text>
-					有来会员
+					土味会员
 				</view>
-				<text class="e-m">有来 Union</text>
+				<text class="e-m">土味 Union</text>
 				<text class="e-b">开通会员开发无bug 一测就上线</text>
 			</view>
 		</view>
@@ -96,7 +96,7 @@
 						src="https://oss.youlai.tech/default/0ccd5bf5cf384185be1f18a01da076b9.png"
 						mode="aspectFill"
 					></image>
-				
+
 					<image
 						@click="navTo('/pages/product/product')"
 						src="https://www.youlai.tech/files/default/835d73a337964b9b97e5c7c90acc8cb2.png"

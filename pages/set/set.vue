@@ -12,7 +12,7 @@
 			<text class="cell-tit">实名认证</text>
 			<text class="cell-more yticon icon-you"></text>
 		</view>
-		
+
 		<view class="list-cell m-t">
 			<text class="cell-tit">消息推送</text>
 			<switch checked color="#fa436a" @change="switchChange" />
@@ -21,8 +21,8 @@
 			<text class="cell-tit">清除缓存</text>
 			<text class="cell-more yticon icon-you"></text>
 		</view>
-		<view class="list-cell b-b" @click="navTo('关于有来小店')" hover-class="cell-hover" :hover-stay-time="50">
-			<text class="cell-tit">关于有来小店</text>
+		<view class="list-cell b-b" @click="navTo('关于土味小店')" hover-class="cell-hover" :hover-stay-time="50">
+			<text class="cell-tit">关于土味小店</text>
 			<text class="cell-more yticon icon-you"></text>
 		</view>
 		<view class="list-cell">
@@ -40,7 +40,7 @@
 	export default {
 		data() {
 			return {
-				
+
 			};
 		},
 		methods:{
@@ -98,7 +98,7 @@
 			left: 30upx;
 		}
 		&.m-t{
-			margin-top: 16upx; 
+			margin-top: 16upx;
 		}
 		.cell-more{
 			align-self: baseline;
