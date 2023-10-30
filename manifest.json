@@ -78,6 +78,12 @@
     },
     "h5" : {
         "title" : "土味商城",
-        "domain" : "www.youlai.tech"
+        "domain" : "www.youlai.tech",
+        "router" : {
+            "base" : "/youlai_app"
+        },
+        "devServer" : {
+            "https" : false
+        }
     }
 }
